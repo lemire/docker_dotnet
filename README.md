@@ -4,9 +4,10 @@ Build and run .NET projects in a docker container. The provide script files will
 
 Requirements:
 
-- A working Docker system.
+- A working Docker system under Linux or macOS.
 - The scripts are written using bash (available under Linux, macOS and so forth).
 
+*It is not meant to be used within Windows per se*.
 
 Usage:
 
